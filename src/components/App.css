@@ -1,0 +1,13 @@
+.hello{
+    position: absolute;
+    top: 29vh;
+    left: 42vw;
+
+}
+.phone{
+    position: absolute;
+    top: 0vh;
+    left: 1.4vw;
+    z-index: 1000;
+    font-size: 1.2vh;
+}
